@@ -1,4 +1,4 @@
-# pagerank
+# Pagerank
 AI that ranks webpages by importance.
 
 # Background
